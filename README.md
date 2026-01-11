@@ -15,7 +15,7 @@ This model is motivated from the [Striving for Simplicity - All Convolution Net]
 
 The source code allows to train the model from scratch. Also, the pre-trained model is present in this repo which generates 90% accuracy. The steps to build the source code is as follows, 
 ```
-$ git clone git@github.com:yogeshgajjar/CNN-CIFAR-10-image-classification.git
+$ git clone git@github.com/gulshan7417/CNN-CIFAR-10-image-classification.git
 $ cd YGNet_Keras
 $ python3 CIFAR-10_CNN.py train 
 ``` 
